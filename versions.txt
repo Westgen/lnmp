@@ -37,7 +37,7 @@ jdk18_ver=1.8.0_202
 php73_ver=7.3.6
 
 libiconv_ver=1.15
-curl_ver=7.65
+curl_ver=7.65.0
 libmcrypt_ver=2.5.8
 mcrypt_ver=2.6.8
 mhash_ver=0.9.9.9
